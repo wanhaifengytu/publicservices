@@ -18,4 +18,14 @@ git checkout NewBranch
 git checkout -
 git checkout NewBranch
 
+git add gitCommand.txt
+git commit -m "NewCommitTest"
+
+git tag "NewTag"
+git tag
+git show NewTag
+
+
+git push --set-upstream origin gitCommands 
+
 
