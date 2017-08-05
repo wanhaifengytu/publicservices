@@ -10,3 +10,12 @@ git push
 git tag "NewCommands"
 git tag
 
+git branch "NewBranch"
+git branch
+
+
+git checkout NewBranch
+git checkout -
+git checkout NewBranch
+
+
