@@ -1,0 +1,3 @@
+#Use git bash
+ssh -T git@github.com
+git config --list
