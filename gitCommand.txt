@@ -30,5 +30,15 @@ git push --set-upstream origin gitCommands
 
 git push --tags
 
+git reflog
+
+git show
+
+git fetch
+
+git pull
+
+git remote -v
+
 
 
