@@ -28,4 +28,7 @@ git show NewTag
 
 git push --set-upstream origin gitCommands 
 
+git push --tags
+
+
 
