@@ -38,6 +38,8 @@ git fetch
 
 git pull
 
+git status
+
 git remote -v
 
 
