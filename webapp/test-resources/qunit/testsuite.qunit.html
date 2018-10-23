@@ -1,0 +1,26 @@
+<html>
+ <head>
+   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+   <meta charset="UTF-8">
+
+  <title>Global QUnit TestSuite</title>
+  <script src="../../resources/sap/ui/qunit/qunit-redirect.js"></script>
+ </head>
+ <body>
+  <script>
+
+  /**
+   * Method that is called by the Selenium/QUnit framework to retrieve the test suites.
+   */
+  function suite() {
+    var suite = new top.jsUnitTestSuite(),
+        contextPath = "/" + window.location.pathname.split("/")[1];
+
+    suite.addTestPage(contextPath + "/test-resources/sap/gantt/qunit/testsuite.qunit.html");
+
+    return suite;
+  }
+
+  </script>
+ </body>
+</html>

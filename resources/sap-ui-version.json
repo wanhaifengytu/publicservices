@@ -1,0 +1,51 @@
+{
+	"name": "testsuite",
+	"version": "${version}",
+	"buildTimestamp": "${buildtimestamp}",
+	"scmRevision": "${lastchange}",
+	"gav": "com.sap.gantt:testsuite:${version}:war",
+	"libraries": [
+		{
+			"name": "sap.ui.core",
+			"version": "${version}",
+			"buildTimestamp": "${buildtimestamp}",
+			"scmRevision": "${lastchange}",
+			"gav": "com.sap.ui5:core:${version}:jar"
+		},
+		{
+			"name": "sap.m",
+			"version": "${version}",
+			"buildTimestamp": "${buildtimestamp}",
+			"scmRevision": "${lastchange}",
+			"gav": "com.sap.ui5:mobile:${version}:jar"
+		},
+		{
+			"name": "sap.ui.demokit",
+			"version": "${version}",
+			"buildTimestamp": "${buildtimestamp}",
+			"scmRevision": "${lastchange}",
+			"gav": "com.sap.ui5:demokit:${version}:jar"
+		},
+		{
+			"name": "sap.ui.layout",
+			"version": "${version}",
+			"buildTimestamp": "${buildtimestamp}",
+			"scmRevision": "${lastchange}",
+			"gav": "com.sap.ui5:layout:${version}:jar"
+		},
+		{
+			"name": "sap.ui.unified",
+			"version": "${version}",
+			"buildTimestamp": "${buildtimestamp}",
+			"scmRevision": "${lastchange}",
+			"gav": "com.sap.ui5:unified:${version}:jar"
+		},
+		{
+			"name": "themelib_sap_bluecrystal",
+			"version": "${version}",
+			"buildTimestamp": "${buildtimestamp}",
+			"scmRevision": "${lastchange}",
+			"gav": "com.sap.ui5:themelib_sap_bluecrystal:${version}:jar"
+		}
+	]
+}

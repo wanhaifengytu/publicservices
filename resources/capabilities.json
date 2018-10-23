@@ -1,0 +1,19 @@
+{
+	"internet explorer": {
+		"ignoreProtectedModeSettings": false
+	},
+	"phantomjs": {
+		"phantomjs.page.settings.resourceTimeout": 300000,
+		"phantomjs.page.settings.localToRemoteUrlAccessEnabled": true,
+		"phantomjs.page.settings.webSecurityEnabled": false,
+		"phantomjs.service.settings.start": true,
+		"phantomjs.cli.args": [
+			"--webdriver-loglevel=WARN",
+			"--local-to-remote-url-access=true",
+			"--web-security=false",
+			"--ignore-ssl-errors=true",
+			"--disk-cache=false",
+			"--proxy-type=none"
+		]
+	}
+}
