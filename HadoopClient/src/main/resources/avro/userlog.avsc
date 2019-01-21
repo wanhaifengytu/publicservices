@@ -1,0 +1,16 @@
+{  
+      "type": "record",  
+      "name": "userlog",  
+      "fields": [
+            {"name": "ip","type": "string"},
+            {"name": "identity","type":"string"},
+            {"name": "userid","type":"int"},
+            {"name": "time","type": "string"},
+            {"name": "requestinfo","type": "string"},
+            {"name": "state","type": "int"},
+            {"name": "responce","type": "string"},
+            {"name": "referer","type": "string"},
+            {"name": "useragent","type": "string"},
+            {"name": "timestamp","type": "long"}
+      ]  
+}
