@@ -10,3 +10,11 @@ git push
 git tag "NewCommands"
 git tag
 
+
+# Find previous local commits
+git log
+#Revert to previous commit status
+git reset --hard <commit_id> 
+#Revert to previous commit status
+git push origin HEAD --force
+
