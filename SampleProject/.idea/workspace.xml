@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa10189a-4f25-4364-b877-66cac372a453" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/HDFSTestClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/HDFSTestClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/HiveTestClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/HiveTestClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/KafkaConsumerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/KafkaConsumerExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/KafkaProducerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/KafkaProducerExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/executor/TestExecutorThreads.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/executor/TestExecutorThreads.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/hbase/HBaseSimpleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/hbase/HBaseSimpleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/hbase/HBaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/hbase/HBaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/hive/TestHiveJDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/hive/TestHiveJDBC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/kafka/BananaPartitioner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/kafka/BananaPartitioner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/kafka/ConsumerGroupExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/kafka/ConsumerGroupExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/kafka/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/kafka/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/kafka/CustomerSerializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/kafka/CustomerSerializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/kafka/DemoProducerCallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/kafka/DemoProducerCallback.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/kafka/KafkaProducerRepeatively.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/kafka/KafkaProducerRepeatively.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/kafka/ProducerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/kafka/ProducerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/kafka/SimplePartition.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/kafka/SimplePartition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/kafka/SimpleProducerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/kafka/SimpleProducerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/kafka/avro/TestAvroSchema.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/kafka/avro/TestAvroSchema.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/kafka/load/TaskRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/kafka/load/TaskRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/kafka/stream/LogProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/kafka/stream/LogProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/kafka/stream/TestStreamMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/kafka/stream/TestStreamMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/mapreduce/commonfriends/StepFirst.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/mapreduce/commonfriends/StepFirst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/mapreduce/commonfriends/StepSecond.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/mapreduce/commonfriends/StepSecond.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/mapreduce/mobileflow/FlowBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/mapreduce/mobileflow/FlowBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/mapreduce/mobileflow/FlowCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/mapreduce/mobileflow/FlowCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/mapreduce/wordcount/WordCountMapReduce.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/mapreduce/wordcount/WordCountMapReduce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/mapreduce/wordcount/WordcountMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/mapreduce/wordcount/WordcountMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/mapreduce/wordcount/WordcountReducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/mapreduce/wordcount/WordcountReducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/JavaSparkPi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/JavaSparkPi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/PerfLogParseTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/PerfLogParseTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/SparkSQLMyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/SparkSQLMyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/SparkUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/SparkUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/WordCountTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/WordCountTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/org/apache/spark/examples/JavaHdfsLR.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/org/apache/spark/examples/JavaHdfsLR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/org/apache/spark/examples/JavaLogQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/org/apache/spark/examples/JavaLogQuery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/org/apache/spark/examples/JavaPageRank.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/org/apache/spark/examples/JavaPageRank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/org/apache/spark/examples/JavaSparkPi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/org/apache/spark/examples/JavaSparkPi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/org/apache/spark/examples/JavaStatusTrackerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/org/apache/spark/examples/JavaStatusTrackerDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/org/apache/spark/examples/JavaTC.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/org/apache/spark/examples/JavaTC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/org/apache/spark/examples/JavaWordCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/org/apache/spark/examples/JavaWordCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/org/apache/spark/examples/sql/JavaSQLDataSourceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/org/apache/spark/examples/sql/JavaSQLDataSourceExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/org/apache/spark/examples/sql/JavaSparkSQLExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/org/apache/spark/examples/sql/JavaSparkSQLExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/org/apache/spark/examples/sql/JavaUserDefinedTypedAggregation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/org/apache/spark/examples/sql/JavaUserDefinedTypedAggregation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/org/apache/spark/examples/sql/JavaUserDefinedUntypedAggregation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/org/apache/spark/examples/sql/JavaUserDefinedUntypedAggregation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/org/apache/spark/examples/sql/hive/JavaSparkHiveExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/org/apache/spark/examples/sql/hive/JavaSparkHiveExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/org/apache/spark/examples/sql/streaming/JavaStructuredKafkaWordCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/org/apache/spark/examples/sql/streaming/JavaStructuredKafkaWordCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/org/apache/spark/examples/sql/streaming/JavaStructuredNetworkWordCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/org/apache/spark/examples/sql/streaming/JavaStructuredNetworkWordCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/org/apache/spark/examples/sql/streaming/JavaStructuredNetworkWordCountWindowed.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/org/apache/spark/examples/sql/streaming/JavaStructuredNetworkWordCountWindowed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/org/apache/spark/examples/sql/streaming/JavaStructuredSessionization.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/org/apache/spark/examples/sql/streaming/JavaStructuredSessionization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/org/apache/spark/examples/streaming/JavaCustomReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/org/apache/spark/examples/streaming/JavaCustomReceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/org/apache/spark/examples/streaming/JavaNetworkWordCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/org/apache/spark/examples/streaming/JavaNetworkWordCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/org/apache/spark/examples/streaming/JavaQueueStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/org/apache/spark/examples/streaming/JavaQueueStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/org/apache/spark/examples/streaming/JavaRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/org/apache/spark/examples/streaming/JavaRecord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/org/apache/spark/examples/streaming/JavaRecoverableNetworkWordCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/org/apache/spark/examples/streaming/JavaRecoverableNetworkWordCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/org/apache/spark/examples/streaming/JavaSqlNetworkWordCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/org/apache/spark/examples/streaming/JavaSqlNetworkWordCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/org/apache/spark/examples/streaming/JavaStatefulNetworkWordCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/java/com/sap/hadoop/test/spark/org/apache/spark/examples/streaming/JavaStatefulNetworkWordCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/resources/avro/test_schema.avsc" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/resources/avro/test_schema.avsc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/resources/avro/userlog.avsc" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/resources/avro/userlog.avsc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/graphx/followers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/graphx/followers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/graphx/users.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/graphx/users.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/als/sample_movielens_ratings.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/als/sample_movielens_ratings.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/als/test.data" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/als/test.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/gmm_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/gmm_data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/images/license.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/images/license.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/images/origin/kittens/29.5.a_b_EGDP022204.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/images/origin/kittens/29.5.a_b_EGDP022204.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/images/origin/kittens/54893.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/images/origin/kittens/54893.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/images/origin/kittens/DP153539.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/images/origin/kittens/DP153539.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/images/origin/kittens/DP802813.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/images/origin/kittens/DP802813.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/images/origin/kittens/not-image.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/images/origin/kittens/not-image.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/images/origin/license.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/images/origin/license.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/images/origin/multi-channel/BGRA.png" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/images/origin/multi-channel/BGRA.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/images/origin/multi-channel/BGRA_alpha_60.png" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/images/origin/multi-channel/BGRA_alpha_60.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/images/origin/multi-channel/chr30.4.184.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/images/origin/multi-channel/chr30.4.184.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/images/origin/multi-channel/grayscale.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/images/origin/multi-channel/grayscale.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/images/partitioned/cls=kittens/date=2018-01/29.5.a_b_EGDP022204.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/images/partitioned/cls=kittens/date=2018-01/29.5.a_b_EGDP022204.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/images/partitioned/cls=kittens/date=2018-01/not-image.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/images/partitioned/cls=kittens/date=2018-01/not-image.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/images/partitioned/cls=kittens/date=2018-02/54893.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/images/partitioned/cls=kittens/date=2018-02/54893.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/images/partitioned/cls=kittens/date=2018-02/DP153539.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/images/partitioned/cls=kittens/date=2018-02/DP153539.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/images/partitioned/cls=kittens/date=2018-02/DP802813.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/images/partitioned/cls=kittens/date=2018-02/DP802813.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/images/partitioned/cls=multichannel/date=2018-01/BGRA.png" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/images/partitioned/cls=multichannel/date=2018-01/BGRA.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/images/partitioned/cls=multichannel/date=2018-01/BGRA_alpha_60.png" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/images/partitioned/cls=multichannel/date=2018-01/BGRA_alpha_60.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/images/partitioned/cls=multichannel/date=2018-02/chr30.4.184.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/images/partitioned/cls=multichannel/date=2018-02/chr30.4.184.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/images/partitioned/cls=multichannel/date=2018-02/grayscale.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/images/partitioned/cls=multichannel/date=2018-02/grayscale.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/iris_libsvm.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/iris_libsvm.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/kmeans_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/kmeans_data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/pagerank_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/pagerank_data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/pic_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/pic_data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/ridge-data/lpsa.data" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/ridge-data/lpsa.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/sample_binary_classification_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/sample_binary_classification_data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/sample_fpgrowth.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/sample_fpgrowth.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/sample_isotonic_regression_libsvm_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/sample_isotonic_regression_libsvm_data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/sample_kmeans_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/sample_kmeans_data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/sample_lda_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/sample_lda_data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/sample_lda_libsvm_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/sample_lda_libsvm_data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/sample_libsvm_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/sample_libsvm_data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/sample_linear_regression_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/sample_linear_regression_data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/sample_movielens_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/sample_movielens_data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/sample_multiclass_classification_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/sample_multiclass_classification_data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/sample_svm_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/sample_svm_data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/streaming_kmeans_data_test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/mllib/streaming_kmeans_data_test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/streaming/AFINN-111.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../HadoopClient/src/main/resources/data/streaming/AFINN-111.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gitCommand.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../gitCommand.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/capabilities.json" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/capabilities.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/sap-ui-version.json" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/sap-ui-version.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/pwan/TestCalculate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/com/pwan/TestCalculate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../webapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webapp/test-resources/qunit/testsuite.qunit.html" beforeDir="false" afterPath="$PROJECT_DIR$/../webapp/test-resources/qunit/testsuite.qunit.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="64" />
+    <option name="y" value="37" />
+    <option name="width" value="1463" />
+    <option name="height" value="759" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SampleProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SampleProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SampleProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SampleProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SampleProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SampleProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa10189a-4f25-4364-b877-66cac372a453" name="Default Changelist" comment="" />
+      <created>1548075357106</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548075357106</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="28" width="1435" height="807" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2372026" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>SampleProject</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

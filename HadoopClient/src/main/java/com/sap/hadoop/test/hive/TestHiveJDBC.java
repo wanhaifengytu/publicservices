@@ -8,9 +8,9 @@ import java.sql.*;
 
 public class TestHiveJDBC {
 	private static String driverName = "org.apache.hive.jdbc.HiveDriver";
-	private static String url = "jdbc:hive2://localhost:9999/hive";
-	private static String user = "hadoop";
-	private static String password = "";
+	private static String url = "jdbc:hive2://10.1.1.100:10000/hive";
+	private static String user = "guest";
+	private static String password = "password";
 
 	private static Connection conn = null;
 	private static Statement stmt = null;
@@ -24,7 +24,11 @@ public class TestHiveJDBC {
 		stmt = conn.createStatement();
 
 		showDatabases();
-		
+
+		//createTable();
+		showTables();
+		descTable();
+
 		destory();
 	}
 

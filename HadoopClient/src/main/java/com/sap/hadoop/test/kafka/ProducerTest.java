@@ -26,7 +26,7 @@ public class ProducerTest {
 
 	private static Producer createNewProducerDefault() throws Exception {
 		Properties kafkaProps = new Properties();
-		kafkaProps.put("bootstrap.servers", "10.169.68.198:9092");
+		kafkaProps.put("bootstrap.servers", "10.1.1.95:9092");
 		
 		kafkaProps.put("acks", "all");
 		kafkaProps.put("retries", "0");
