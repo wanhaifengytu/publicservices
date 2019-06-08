@@ -17,4 +17,7 @@ git log
 git reset --hard <commit_id> 
 #Revert to previous commit status
 git push origin HEAD --force
+#https://www.cnblogs.com/mliudong/archive/2013/04/08/3007303.html
+git reflog
+git reset --hard xxxx
 
