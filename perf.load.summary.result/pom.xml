@@ -1,0 +1,141 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>perf.load.spark.elastic</groupId>
+  <artifactId>perf.load.spark.elastic</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>jar</packaging>
+
+  <name>perf.load.spark.elastic</name>
+  <url>http://maven.apache.org</url>
+
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+       <maven.compiler.source>1.8</maven.compiler.source>
+    <maven.compiler.target>1.8</maven.compiler.target>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+     <corenlp.version>3.4.1</corenlp.version>
+  </properties>
+
+  <dependencies>
+  <dependency>
+    <groupId>org.elasticsearch</groupId>
+    <artifactId>elasticsearch-hadoop</artifactId>
+    <version>7.3.1</version>
+</dependency>
+
+     <dependency>
+	  <groupId>org.apache.spark</groupId>
+	  <artifactId>spark-core_2.11</artifactId>
+	  <version>2.4.3</version>
+	</dependency>
+	
+	<!-- https://mvnrepository.com/artifact/com.googlecode.json-simple/json-simple -->
+<!--<dependency>
+    <groupId>com.googlecode.json-simple</groupId>
+    <artifactId>json-simple</artifactId>
+    <version>1.1.1</version>
+</dependency> -->
+	
+<!--<dependency>
+		<groupId>com.fasterxml.jackson.core</groupId>
+		<artifactId>jackson-databind</artifactId>
+		<version>2.9.8</version>
+	</dependency> -->
+
+	   <dependency>
+    <groupId>com.sap.db.jdbc</groupId>
+    		<artifactId>ngdbc</artifactId>
+    		<version>2.4.9</version>
+	</dependency>
+	
+	<dependency>
+	  <groupId>org.apache.spark</groupId>
+	  <artifactId>spark-sql_2.11</artifactId>
+	  <version>2.4.3</version>
+	  </dependency>
+	<dependency>
+	  <groupId>org.apache.spark</groupId>
+	  <artifactId>spark-hive_2.11</artifactId>
+	  <version>2.4.3</version>
+	</dependency>
+	<dependency>
+	  <groupId>org.apache.spark</groupId>
+	  <artifactId>spark-streaming_2.11</artifactId>
+	  <version>2.4.3</version>
+	</dependency>
+	<dependency>
+    <groupId>org.apache.spark</groupId>
+    <artifactId>spark-streaming-kafka_2.11</artifactId>
+    <version>1.6.3</version>
+</dependency>
+<dependency>
+    <groupId>org.apache.kafka</groupId>
+    <artifactId>kafka-clients</artifactId>
+    <version>2.3.0</version>
+</dependency>
+	<!-- https://mvnrepository.com/artifact/org.apache.spark/spark-mllib -->
+<dependency>
+    <groupId>org.apache.spark</groupId>
+    <artifactId>spark-mllib_2.11</artifactId>
+    <version>2.4.3</version>
+ 
+</dependency>
+
+    <dependency>
+    <groupId>org.elasticsearch.client</groupId>
+    <artifactId>elasticsearch-rest-high-level-client</artifactId>
+    <version>7.3.1</version>
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/org.elasticsearch.plugin/x-pack-sql-jdbc -->
+<dependency>
+    <groupId>org.elasticsearch.plugin</groupId>
+    <artifactId>x-pack-sql-jdbc</artifactId>
+    <version>7.3.1</version>
+</dependency>
+
+  </dependencies>
+  
+   <build>
+    <sourceDirectory>src/main/java</sourceDirectory>
+    <testSourceDirectory>src/main/test</testSourceDirectory>
+
+    <plugins>
+      <plugin>
+        <artifactId>maven-assembly-plugin</artifactId>
+        <configuration>
+          <descriptorRefs>
+            <descriptorRef>jar-with-dependencies</descriptorRef>
+          </descriptorRefs>
+          <archive>
+            <manifest>
+              <mainClass></mainClass>
+            </manifest>
+          </archive>
+        </configuration>
+        <executions>
+          <execution>
+            <id>make-assembly</id>
+            <phase>package</phase>
+            <goals>
+              <goal>single</goal>
+            </goals>
+          </execution>
+        </executions>
+      </plugin>
+      
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <configuration>
+          <source>1.8</source>
+          <target>1.8</target>
+        </configuration>
+      </plugin>
+
+    </plugins>
+  </build>
+  
+</project>
