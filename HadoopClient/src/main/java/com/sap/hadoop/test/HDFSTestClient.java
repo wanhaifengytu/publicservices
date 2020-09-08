@@ -13,13 +13,13 @@ public class HDFSTestClient {
 
 	public static void main(String[] args) throws Exception {
 		System.out.println("This is the start of the main HDFS Test Client");
-		conf.set("fs.defaultFS", "hdfs://localhost:9000");
+		conf.set("fs.defaultFS", "hdfs://10.1.1.100:9000");
 		
 		HDFSTestClient client = new HDFSTestClient();
 		//client.upload("/tmp", "C:\\tools\\apache-maven-3.3.3\\conf");
-		//client.mkdir("/tmp/superFolder");
+		client.mkdir("/tmp/superFolder");
 		//client.mkdir("/streaming_checkpoint");
-		client.listFiles("/streaming_checkpoint");
+		client.listFiles("/tmp");
 		
 	}
 	
